@@ -1,0 +1,12 @@
+# commands
+command browser qutebrowser
+command kitty	kitty
+command clock   kitty peaclock
+command emacs   emacs
+command matrix  element-desktop
+
+bind-key 4-Return kitty
+bind-key 4-c	  qutebrowser
+bind-key 4-t	  kitty peaclock
+bind-key 4-e      emacs
+bind-key 4-m      element-desktop
