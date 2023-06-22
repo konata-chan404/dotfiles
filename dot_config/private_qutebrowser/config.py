@@ -50,7 +50,7 @@ c.url.searchengines['ab'] = 'https://bugs.archlinux.org/?project=5&string={}'
 c.aliases['ge'] = 'open -t https://wiki.archlinux.org/index.php/Forum_Etiquette'
 c.aliases['gf'] = 'open -t http://flickr.com/jasonwryan '
 c.aliases['gy'] = 'open -t http://anti.moe/~yael/'
-#c.aliases['gp'] = 'open -t http://127.0.0.1:4000'
+c.aliases['gs'] = 'open -t http:/127.0.0.1:8384/'
 c.aliases['gr'] = 'open -t https://feedbin.com/'
 
 # colors
